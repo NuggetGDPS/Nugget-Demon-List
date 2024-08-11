@@ -1,0 +1,18 @@
+{
+    "id": 1001,
+    "name": "Lost cause",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://www.youtube.com/watch?v=xS9_YYapxk4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/NKIEd3cvZLI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
